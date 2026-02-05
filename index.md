@@ -10,14 +10,15 @@
 
 ##  <i class="fa fa-briefcase" aria-hidden="true"></i> Research Summary
 
-I have been committed to the research of topological state control and its application in the field of quantum technology, with a focus on experimental implementation based on quantum walk. Exploring novel topological states and their applications in quantum state control based on opto-electronic platforms; Constructing a quantum walk network to achieve high-sensitivity sensing and quantum inspired fast algorithms. 
-So far, I have published over 60 papers about the topics above in Nat. Commun., Light: Sci. & Appl., Sci. Adv., Natl. Sci. Rev., Sci. Bull., Phys. Rev. Lett., Research, et al. The relevant achievements have been reported on Advanced Science News, EurekAlert! (AAAS), MIT Technology Review and China Optics more than 20 times. I have led/participated in multiple National Natural Science Foundation projects and key research and development programs. Currently I am serving as a young editorial board member of the journal “Research” and “PhotoniX”, editor in chief of the special topic "Symmetry/Asymmetry in Topological Phases" in “Symmetry”, the external reviewer in Clarivate's overseas research project, and in Beijing Science and Technology. In 2023, I have received the "IOP Trusted Reviewer" certification from Institute of Physics.
+I have been committed to the research of state control and its application in the field of quantum technology, with a focus on experimental implementation based on quantum walk. Exploring novel topological states and their applications in quantum state control based on opto-electronic platforms; Constructing a quantum walk network to achieve high-sensitivity sensing and quantum inspired fast algorithms. 
+
+So far, I have published over 60 papers about the topics above in Nat. Commun., Light: Sci. & Appl., Sci. Adv., Natl. Sci. Rev., Sci. Bull., Phys. Rev. Lett., Research, et al. The relevant achievements have been reported on Advanced Science News, EurekAlert! (AAAS), MIT Technology Review and China Optics more than 20 times. I have led/participated in multiple National Natural Science Foundation projects and key research and development programs. Currently I am serving as a young editorial board member of the journal “Research” and “PhotoniX”, editor in chief of the special topic "Symmetry/Asymmetry in Topological Phases" in “Symmetry”, editor in chief of the special topic "Research in Quantum Information Theory" in “Axioms”, the peer reviewer in NSFC, Clarivate's overseas research project, and Beijing Science and Technology. In 2023, I have received the "IOP Trusted Reviewer" certification from Institute of Physics.
 
 ##  <i class="fa fa-briefcase" aria-hidden="true"></i> Projects:
 ### 
 
 * Ten Thousand Talents Plan for Young Top notch Talents of China 2025
-* National Natural Science Foundation of China（2020-2023; 2024-2027）
+* National Natural Science Foundation of China (NSFC)（2020-2023; 2024-2027）
 * National Natural Science Foundation of China Youth Fund（2017-2019）
 
 
