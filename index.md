@@ -16,7 +16,7 @@ So far, I have published over 60 papers about the topics above in Nat. Commun., 
 ##  <i class="fa fa-briefcase" aria-hidden="true"></i> Projects:
 ### 
 
-* Ten Thousand Talents Plan for Young Top notch Talents 2025
+* Ten Thousand Talents Plan for Young Top notch Talents of China 2025
 * National Natural Science Foundation of China（2020-2023; 2024-2027）
 * National Natural Science Foundation of China Youth Fund（2017-2019）
 
