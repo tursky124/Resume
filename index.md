@@ -1,65 +1,46 @@
-# 大前锋/小前锋/控卫/中锋
+# Quantum Computation and Simulation_Dr. Tian Chen
 
-##  <i class="fa fa-cogs" aria-hidden="true"></i> 基本技能
+##  <i class="fa fa-cogs" aria-hidden="true"></i> Education
 
-### 篮球基本技能
+### 
 
-* 身高206厘米，体重113.4公斤，在他的主要位置小前锋或后卫的对位上往往有身材优势。
-* 拥有不错的速度、弹跳力和身体对抗能力，在大前锋这个位置上游刃有余。
-* 要的得分手段是切入上篮、扣篮，往往能造成打三分。
-* 中距离跳投也日臻成熟，已成为了常规武器；三分球经过长年累月的磨练和积累，命中率已经超过了四成有余。
-* 出色的篮板以及助攻能力，两项数据生涯平均皆在7左右，抢断和盖帽的成绩也不差。
-* 詹姆斯的防守意识亦相当不错，在比赛中时常能看到他从后方飞身盖帽，或是断球后的快攻扣篮。
-* 具有相当好的控球能力和全场视野，经常担任控球后卫的角色，在这个位置上具有极大的身材优势。
-* 进攻往往能吸引对手两到三名球员的包夹防守，无私的分享球球意识和良好的传球技术，从而使队友获得许多空档出手的机会
+* 2010.09-2015.07 Tsinghua University (Doctor of Philosophy) Supervisor: Prof. Xiangbin Wang
+* 2013.01-2013.12 Stevens Institute of Technology USA, Visiting Scholar, Supervisor: Prof. Ting Yu
+* 2006.09-2010.07 Nankai University (Bachelor), Supervisor: Prof. Zhigang Chen
 
-##  <i class="fa fa-briefcase" aria-hidden="true"></i> 骑士职业生涯
+##  <i class="fa fa-briefcase" aria-hidden="true"></i> Research Summary
 
-### 第一次骑士生涯（2003-2010）
+I have been committed to the research of topological state control and its application in the field of quantum technology, with a focus on experimental implementation based on quantum walk. Exploring novel topological states and their applications in quantum state control based on opto-electronic platforms; Constructing a quantum walk network to achieve high-sensitivity sensing and quantum inspired fast algorithms. 
+So far, I have published over 60 papers about the topics above in Nat. Commun., Light: Sci. & Appl., Sci. Adv., Natl. Sci. Rev., Sci. Bull., Phys. Rev. Lett., Research, et al. The relevant achievements have been reported on Advanced Science News, EurekAlert! (AAAS), MIT Technology Review and China Optics more than 20 times. I have led/participated in multiple National Natural Science Foundation projects and key research and development programs. Currently I am serving as a young editorial board member of the journal “Research” and “PhotoniX”, editor in chief of the special topic "Symmetry/Asymmetry in Topological Phases" in “Symmetry”, the external reviewer in Clarivate's overseas research project, and in Beijing Science and Technology. In 2023, I have received the "IOP Trusted Reviewer" certification from Institute of Physics.
 
-#### 项目描述
+##  <i class="fa fa-briefcase" aria-hidden="true"></i> Projects:
+### 
 
-2003年6月27日，在2003年NBA选秀中，詹姆斯被克利夫兰骑士队选中。2004-2005赛季，詹姆斯仍未能带领骑士队进季后赛。2005-2006赛季，詹姆斯带领骑士首次打进了季后赛。2006年1月21日，詹姆斯在对阵爵士的比赛拿下51分，成为历史上最年轻的总得分达到5000分的球员。2006-2007赛季，詹姆斯带领骑士以50胜的成绩成为NBA东部第二种子球队，之后率队挺进总决赛，然而，在总决赛中，骑士被马刺连胜四场击败。2007-2010赛季，詹姆斯连续四次蝉联MVP，但是依旧没有越过凯尔特人这座大山。
+* Ten Thousand Talents Plan for Young Top notch Talents 2025
+* National Natural Science Foundation of China（2020-2023; 2024-2027）
+* National Natural Science Foundation of China Youth Fund（2017-2019）
 
-#### 主要职责：队内头号得分手
 
-* 球队主要得分来源，负责球队关键时刻的得分。
-* 负责球队的篮板和助攻。
-* 关键时刻甩锅，抱大腿。
+##  <i class="fa fa-briefcase" aria-hidden="true"></i> Selected Publications:
 
-### 第二次骑士生涯（2014-2018）
+### Quantum Computation
 
-#### 项目描述
+#### Description
+We have realized the quantum computation on different tasks, from the spectra, games to search. Some more realistic application are ongoing.
 
-2014年7月12日，詹姆斯在《体育画报》上发表公开信，宣布将回归骑士。詹姆斯与凯里·欧文，凯文·乐福组成了新三巨头。回归第一年，率领骑士挺进季后赛，4比0横扫了凯尔特人，4比2赢下公牛。总决赛被给勇士。2015-2016赛季，骑士队在常规赛取得了57胜25负的战绩，排名东部第一，之后总决赛从1比3的绝境中逆转，拿下NBA总冠军。2016-2018的两个赛季，骑士依旧挺进总决赛，但是依旧败给勇士。
+* GBS-assisted quantum unsupervised machine learning on a universal programmable integrated quantum chip. Research 8, 1006 (2025).
+* Quantum photonic solver for complicated vibronic spectra of large molecules. Nat. Commun. 15, 6057 (2024).
+* Quantum Two-Player Games and Realizations with Circuits. Research 7, 0480 (2024).
+* A Dynamically Programmable Quantum Photonic Microprocessor for Graph Computation. Laser & Photonics Reviews 18, 2300304 (2023).
+* Electric-Circuit Realization of Fast Quantum Search. Research 2021, 9793071 (2021).
 
-#### 主要职责：球队领袖
+### Quantum Simulation
 
-* 带领球队攻坚克难，连续四年挺进总决赛。
-* 负责制定球队战术，打发，串联球队等。
-* 团结球队成员，捧得NBA总决赛奖杯。
+#### Description
+We have focused on the new phenomena and applications, especially about the high sensitivity based on new simulations.
 
-### 热火时期（2010-2014）
-
-#### 项目描述
-
-2010年7月9日，詹姆斯透过ESPN举办的全国直播特别节目“The Decision”宣布与迈阿密热火队签约。与克里斯·波什、德怀恩·韦德组成三巨头阵容。热火带着东部第二名进入季后赛，首轮4:1击败76人和公牛，挺进总决赛，但是败给小牛。2011-12赛季，常规赛排名东部第二后，热火季后赛首轮轻取尼克斯，次轮对阵步行者以4比2过关。东部决赛中，热火干掉度凯尔特人，总决赛灭掉雷霆，首次捧得NBA总决赛奖杯。2012-2013赛季，热火继续强大，干掉了老对手马刺，蝉联总冠军。2013-2014，热火轻松挺进总决赛，但是又败给马刺，之后三巨头解体，各奔东西。
-
-#### 主要职责：得分手兼具球队领袖
-
-* 负责球队主要得分，关键时候得分。
-* 负责抱紧韦德和波什的大腿。
-* 团结球队成员，捧得NBA总决赛奖杯。
-
-### 湖人时期（2018 - 现在）
-
-#### 项目描述
-
-2018年7月10日，詹姆斯正式与洛杉矶湖人队签下4年1.53亿美元的合同，合同第四年为球员选项。首个赛季，詹姆斯受伤，湖人取得6胜12负的战绩，排名也从西部第四直线滑落到西部第十，无缘季后赛。2019年6月28日，由于前锋安东尼·戴维斯加盟湖人队，詹姆斯决定让出23号球衣并换回其效力热火队和美国国家队身穿的6号球衣。2020年3月7日，湖人今日对阵雄鹿，湖人球员勒布朗·詹姆斯上半场打了18分钟，7投4中，罚球4罚4中，拿到了12分4助攻3篮板1抢断。这样一来，詹姆斯生涯常规赛罚球数达到了10014个，超越科比·布莱恩特（10011个），排名升至历史第五位。
-
-#### 主要职责球队领袖
-
-* 负责球队主要得分，关键时候得分。
-* 负责抱紧安东尼·戴维斯的大腿
-* 团结球队成员，串联整个球队，适当时候养身。
-
+* Ultrasensitive Quantum Sensors Based on High-Order Exceptional Bound States. Research 8, 1091 (2026).
+* Topologically protected entanglement switching around exceptional points. Light: Sci. & Appl. 13, 167 (2024).
+* Ultrasensitive integrated circuit sensors based on high-order non-Hermitian topological physics. Science Advances 10, eadp6905 (2024).
+* Ultra-sensitivity in reconstructed exceptional systems. National Science Review 11, nwae278 (2024).
+* Observation of hybrid higher-order skin-topological effect in non-Hermitian topolectrical circuits. Nat. Commun. 12, 7201 (2021).
